@@ -1,3 +1,64 @@
 {
-  "courses": []
+  "courses": [
+    {
+      "id": 702337525,
+      "DueDate": "2021-07-28T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 1"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-06-29T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 2"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-07-15T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 3"
+    },
+    {
+      "id": 702337525,
+      "DueDate": null,
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 4"
+    },
+    {
+      "id": 702337525,
+      "DueDate": null,
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 5"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-08-12T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 6"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-08-28T00:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 7"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-08-01T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 8"
+    },
+    {
+      "id": 702337525,
+      "DueDate": null,
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 9"
+    },
+    {
+      "id": 702337525,
+      "DueDate": "2021-07-01T20:36:00+0000",
+      "LaunchUrl": "http://www.google.com",
+      "Title": "Dummy Course 10"
+    }
+  ]
 }
